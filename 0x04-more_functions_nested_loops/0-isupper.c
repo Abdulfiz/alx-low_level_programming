@@ -1,4 +1,4 @@
-#include "main.c"
+#include <stdio.h>
 
 /**
  * _isupper - checks if parameter is an uppercase character.
