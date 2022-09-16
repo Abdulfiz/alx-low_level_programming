@@ -22,8 +22,8 @@ void more_numbers(void)
 			}
 			if (count == 1)
 			{
-				_putchar(l)
-			}
+				_putchar(l);
+			}	
 			_putchar(k);
 			k++;
 			j++;
